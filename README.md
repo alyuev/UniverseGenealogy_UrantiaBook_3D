@@ -6,3 +6,5 @@
 ![Screenshot](https://github.com/alyuev/UniverseGenealogy_UrantiaBook_3D/blob/main/images/3D%20scheme.png)
 
 Обзор и обсуждение схемы здесь: https://www.youtube.com/watch?v=hnRzrb8eC4c
+
+[![Обзор и обсуждение схемы](https://i.ytimg.com/vi/hnRzrb8eC4c/maxresdefault.jpg)](https://www.youtube.com/watch?v=hnRzrb8eC4c)
